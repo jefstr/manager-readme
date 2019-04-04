@@ -13,11 +13,11 @@ I’m here to help and support you and to advocate for you and the team with the
 
 **Disagree with me.** The best solutions come from a healthy level of debate. We need to be able to separate our ideas from our egos. I’ll challenge your ideas with the goal of coming to the best possible solution and I hope you’ll challenge mine.
 
-**Tell me when I screw up.** This is very important. I don’t always know when this happens. I need to know or I’ll probably do it again. 
+**Tell me when I mess up.** This is very important. I don’t always know when this happens. I need to know or I’ll do it again. 
 
 **Communicate.** Are you missing some context? Let me know and I’ll fill you in or go find out.
 
-**Bring your friends.** We’re growing the team and you know who you want to work with.
+**Refer your friends.** We’re growing the team and you know who you want to work with. Let's bring them onboard.
 
 ## Principles
 **People over Process.** I believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked and launched successful products with and without Agile. At the end of the day, this is what I care about:
@@ -44,12 +44,13 @@ I love feedback. It’s critical to my success here. I promise to give you regul
 - **High Safety** (i.e. no fear of retaliation)
 - **Low Effort** (i.e. no rebuttals)
 - **High Benefit** (i.e. positive results)
+
 Let me know if I don't do well on any of these three dimensions.
 
 I’m going to ask you for feedback in 1:1s regularly. I won’t stop doing this no matter how many times you say you have no feedback for me.
 
 ## One-on-ones
-I believe one-on-ones are for you. Length, frequency, format and content is up to you. What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be status updates unless you really want to talk about project status. I’d like to start with high frequency and figure out if/how to taper back from there.
+I believe 1<>1s for you. Length, frequency, format, and content is up to you. What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be status updates unless you really want to talk about project status. I’d like to start with high frequency and figure out if/how to taper back from there.
 
 ## Availability and Meetings
 Sometimes my availability looks scary, but I’m here for you! Very few of the things I do are more important than spending time talking with you if you want to talk with me. Feel free to try to catch me ad-hoc via Slack or in person, or put time on my calendar to talk whenever you want.
