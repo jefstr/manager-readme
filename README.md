@@ -50,7 +50,7 @@ Let me know if I don't do well on any of these three dimensions.
 I’m going to ask you for feedback in 1:1s regularly. I won’t stop doing this no matter how many times you say you have no feedback for me.
 
 ## One-on-ones
-I believe 1<>1s for you. Length, frequency, format, and content is up to you. What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be status updates unless you really want to talk about project status. I’d like to start with high frequency and figure out if/how to taper back from there.
+I believe 1<>1s are for you. Length, frequency, format, and content is up to you. What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be status updates unless you really want to talk about project status. I’d like to start with high frequency and figure out if/how to taper back from there.
 
 ## Availability and Meetings
 Sometimes my availability looks scary, but I’m here for you! Very few of the things I do are more important than spending time talking with you if you want to talk with me. Feel free to try to catch me ad-hoc via Slack or in person, or put time on my calendar to talk whenever you want.
